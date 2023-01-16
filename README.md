@@ -1,1 +1,1 @@
-# independent-projects
+# Independent Projects in Data Science and Biostatistics
